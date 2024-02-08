@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.teamta.instantplayer",
+    "sha256_cert_fingerprints":
+    ["00:AB:76:31:54:A5:54:38:7B:8F:68:D5:38:93:F3:D9:3A:ED:27:48:66:A2:51:7E:7F:37:B2:AF:83:73:D1:3E"]
+  }
+}]
