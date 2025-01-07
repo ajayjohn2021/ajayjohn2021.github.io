@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.teamta.instantplayer",
+    "package_name": "com.example.testinstantplaystore",
     "sha256_cert_fingerprints":
-    ["AA:C7:B2:3B:02:8D:1C:39:A0:85:A7:DB:85:AF:DB:38:3A:84:DC:E9:74:0F:3C:6E:36:E8:20:42:9C:33:47:6A"]
+    ["49:5F:2A:00:BB:18:1F:F4:A3:40:B8:F0:1B:0B:96:B8:FF:83:C7:0C:73:C0:25:0B:2F:0D:BC:12:6A:2F:36:BE"]
   }
 }]
