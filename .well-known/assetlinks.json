@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.testinstantplaystore",
+    "package_name": "com.teamta.instantdebugger",
     "sha256_cert_fingerprints":
     ["49:5F:2A:00:BB:18:1F:F4:A3:40:B8:F0:1B:0B:96:B8:FF:83:C7:0C:73:C0:25:0B:2F:0D:BC:12:6A:2F:36:BE"]
   }
