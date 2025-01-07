@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.teamta.instantdebugger",
-    "sha256_cert_fingerprints":
-    ["49:5F:2A:00:BB:18:1F:F4:A3:40:B8:F0:1B:0B:96:B8:FF:83:C7:0C:73:C0:25:0B:2F:0D:BC:12:6A:2F:36:BE"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.teamta.instantdebugger",
+      "sha256_cert_fingerprints":
+        ["E2:BC:A1:81:4A:69:19:F5:7B:58:7C:07:86:9A:55:3A:0B:90:69:2C:8F:AC:57:C7:81:89:F4:01:F7:A5:6E:83"]
+    }
   }
-}]
+]
