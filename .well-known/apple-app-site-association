@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "M6ENXWGY3Q.TA.testPublicChat",
-        "paths": [ "/*" ]
+        "paths": [ "*" ]
       }
     ]
   }
